@@ -1,2 +1,2 @@
-# testUploadd
-used for testing putting things in a nd moving them around
+# testUpload
+used for testing putting things in and moving them around
